@@ -1,0 +1,31 @@
+
+  .my-container {
+    width: 400px;
+    height: 300px;
+}
+.my-drawer-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.my-drawer {
+    padding: 30px;
+    background-color: burlywood;
+} 
+.tp-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #eee;
+}
+.tp-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+  width:100px;   
+}
+  
